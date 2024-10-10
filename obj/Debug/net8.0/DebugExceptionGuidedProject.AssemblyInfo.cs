@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DebugExceptionGuidedProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bee6ca310b1a102dbf64a302cc1f9f504f13803")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+459567e991300198968f40e8724d91a79c20c3ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("DebugExceptionGuidedProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DebugExceptionGuidedProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
