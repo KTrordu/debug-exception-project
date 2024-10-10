@@ -1,0 +1,14 @@
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\bin\Debug\net8.0\DebugExceptionGuidedProject.exe
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\bin\Debug\net8.0\DebugExceptionGuidedProject.deps.json
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\bin\Debug\net8.0\DebugExceptionGuidedProject.runtimeconfig.json
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\bin\Debug\net8.0\DebugExceptionGuidedProject.dll
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\bin\Debug\net8.0\DebugExceptionGuidedProject.pdb
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\obj\Debug\net8.0\DebugExceptionGuidedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\obj\Debug\net8.0\DebugExceptionGuidedProject.AssemblyInfoInputs.cache
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\obj\Debug\net8.0\DebugExceptionGuidedProject.AssemblyInfo.cs
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\obj\Debug\net8.0\DebugExceptionGuidedProject.csproj.CoreCompileInputs.cache
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\obj\Debug\net8.0\DebugExceptionGuidedProject.dll
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\obj\Debug\net8.0\refint\DebugExceptionGuidedProject.dll
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\obj\Debug\net8.0\DebugExceptionGuidedProject.pdb
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\obj\Debug\net8.0\DebugExceptionGuidedProject.genruntimeconfig.cache
+C:\B\God\C# (Microsoft)\Projects\DebugExceptionGuidedProject\obj\Debug\net8.0\ref\DebugExceptionGuidedProject.dll
